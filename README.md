@@ -4,7 +4,7 @@
 I am a self-motivated, full stack web developer with experience in all aspects of project work -- from determining client needs to launching projects. In all of my projects I look for ways to improve workflows and contribute meaningful documentation. I would like to be part of a forward-thinking organization that values collaboration and transparency.
 Contact
 
-### Skills ###
+## Skills ##
 
 * Standards driven HTML, CSS, & JavaScript
 * PHP, Ruby, C#
@@ -12,13 +12,13 @@ Contact
 * MySQL, Microsoft SQL Server
 * Apache, IIS, Git, Subversion, TeamCity, Capistrano
 
-### Links ###
+## Links ##
 * [dave.konopka@gmail.com](mailto:dave.konopka@gmail.com)
 * [http://davekonopka.com](http://davekonopka.com)
 * [http://twitter.com/davekonopka](http://twitter.com/davekonopka)
 * [http://github.com/davekonopka](http://github.com/davekonopka)
 
-### Work Experience ###
+## Work Experience ##
 
 __Programmer Analyst Senior__  
 Wharton Research Data Services  
@@ -88,7 +88,7 @@ December 2000 - October 2001
 
 * Developed the company's public web site, and built various health care management modules for a member access site.
 
-### Education ###
+## Education ##
 
 Syracuse University - S.I. Newhouse School of Public Communications, Syracuse, NY  
 September 1997 - December 2000  
@@ -98,7 +98,7 @@ The Wharton School of the University of Pennsylvania
 January 2011  
 Continuing education, Product design and development workshop  
 
-### Community Involvement ###
+## Community Involvement ##
 
 [Build Guild Philly](http://philly.buildguild.org)  
 June 2010 - Current, Organizer  
