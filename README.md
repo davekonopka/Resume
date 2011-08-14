@@ -2,7 +2,6 @@
 ## Philadelphia, PA based web developer ##
 
 I am a self-motivated, full stack web developer with experience in all aspects of project work -- from determining client needs to launching projects. In all of my projects I look for ways to improve workflows and contribute meaningful documentation. I would like to be part of a forward-thinking organization that values collaboration and transparency.
-Contact
 
 ## Skills ##
 
