@@ -7,7 +7,7 @@ I am a self-motivated, full stack web developer with experience in all aspects o
 
 * Standards driven HTML, CSS, & JavaScript
 * PHP, Ruby, C#
-* WordPress, Symfony, jQuery
+* WordPress, BuddyPress, Symfony, jQuery
 * MySQL, Microsoft SQL Server
 * Apache, IIS, Git, Subversion, TeamCity, Capistrano
 
